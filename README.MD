@@ -1,5 +1,5 @@
-# IA - Actividades
+# Python Activities - IA
 
-Este es un repositorio de las actividades que se han realizado con python.
+This is a repository of activities that have been done with python.
 
 Cristhian Bacusoy &copy; 2022
